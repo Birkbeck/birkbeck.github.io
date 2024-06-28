@@ -22,7 +22,7 @@ title: CMS Birkbeck, University of London
 email: k.mannock@bbk.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   This mini-site is for prospective students for the School of Computing and Mathematical Sciences
-baseurl: "/cms" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://birkbeck.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username: 
