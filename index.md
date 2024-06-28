@@ -12,6 +12,9 @@ Specifically it stores information relating to our Open Day and Conversion event
 + The `Funding` tab provides information about scholarships and bursaries.
 + ...
 
++ [Study Computing and Data Science @ Birkbeck](https://www.bbk.ac.uk/school/computing-and-mathematical-sciences/study-computing-and-data-science)
++ [Study Mathematics and Statistics @ Birkbeck](https://www.bbk.ac.uk/school/computing-and-mathematical-sciences/study-mathematics-and-statistics)
+
 The definitive information on the College and our programmes is still the [Birkbeck main website](https://www.bbk.ac.uk).
 
 ![](_images/For_students_who_do_more.jpg)
