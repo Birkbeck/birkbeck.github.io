@@ -7,13 +7,12 @@ permalink: /
 These pages are to support prospective students who are interested in our programmes.
 Specifically it stores information relating to our Open Day and Conversion events.
 
++ [Study Computing and Data Science @ Birkbeck](https://www.bbk.ac.uk/school/computing-and-mathematical-sciences/study-computing-and-data-science)
++ [Study Mathematics and Statistics @ Birkbeck](https://www.bbk.ac.uk/school/computing-and-mathematical-sciences/study-mathematics-and-statistics)
 + The slides from each session are available under the `Slides` tab.
 + Timetables for the various programmes are available under `Timetables`.
 + The `Funding` tab provides information about scholarships and bursaries.
 + ...
-
-+ [Study Computing and Data Science @ Birkbeck](https://www.bbk.ac.uk/school/computing-and-mathematical-sciences/study-computing-and-data-science)
-+ [Study Mathematics and Statistics @ Birkbeck](https://www.bbk.ac.uk/school/computing-and-mathematical-sciences/study-mathematics-and-statistics)
 
 The definitive information on the College and our programmes is still the [Birkbeck main website](https://www.bbk.ac.uk).
 
