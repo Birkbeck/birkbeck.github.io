@@ -1,1 +1,1 @@
-# cms.bbk.github.io
+# Temporary site for CMS prospective students
