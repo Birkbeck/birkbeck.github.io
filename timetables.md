@@ -7,7 +7,7 @@ permalink: /timetables/
 ## Undergraduate
 
 + BSc Business Computing
-+ [BSc Computing]({{ site.url }}/_assets/BSc_Computing_2024_25/pdf)
++ [BSc Computing]({{ site.url }}/_assets/BSc_Computing_2024_25.pdf)
 + BSc Data Science and Computing
 + BSc Mathematics (also available as CertHE and DipHE)
 
