@@ -16,6 +16,6 @@ Specifically it stores information relating to our Open Day and Conversion event
 
 The definitive information on the College and our programmes is still the [Birkbeck main website](https://www.bbk.ac.uk).
 
-![](_images/For_students_who_do_more.png)
+![](_images/For_students_who_do_more.jpg)
 
 ![](_images/frame.jpg)
