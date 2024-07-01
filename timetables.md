@@ -7,7 +7,7 @@ permalink: /timetables/
 ## Undergraduate
 
 + BSc Business Computing
-+ [BSc Computing](_files/BSc_Computing_2024_25/pdf)
++ [BSc Computing](timetables/BSc_Computing_2024_25/pdf)
 + BSc Data Science and Computing
 + BSc Mathematics (also available as CertHE and DipHE)
 
@@ -27,4 +27,4 @@ with or without a Foundation Year.
 
 ## Module Selection
 
-We will be using online module selection in 2024/25 for continuing or new programmes rather than requiring confirmation with the admin team(s).
+In 2024/25, we will use online module selection for continuing or new programmes rather than requiring confirmation with the admin team(s).
